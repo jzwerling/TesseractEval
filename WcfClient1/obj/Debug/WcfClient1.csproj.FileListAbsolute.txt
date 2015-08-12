@@ -1,0 +1,9 @@
+c:\projects\TessarectEvaluation\WcfClient1\bin\Debug\WcfClient1.exe.config
+c:\projects\TessarectEvaluation\WcfClient1\bin\Debug\WcfClient1.exe
+c:\projects\TessarectEvaluation\WcfClient1\bin\Debug\WcfClient1.pdb
+c:\projects\TessarectEvaluation\WcfClient1\obj\Debug\WcfClient1.csprojResolveAssemblyReference.cache
+c:\projects\TessarectEvaluation\WcfClient1\obj\Debug\WcfClient1.Form1.resources
+c:\projects\TessarectEvaluation\WcfClient1\obj\Debug\WcfClient1.Properties.Resources.resources
+c:\projects\TessarectEvaluation\WcfClient1\obj\Debug\WcfClient1.csproj.GenerateResource.Cache
+c:\projects\TessarectEvaluation\WcfClient1\obj\Debug\WcfClient1.exe
+c:\projects\TessarectEvaluation\WcfClient1\obj\Debug\WcfClient1.pdb

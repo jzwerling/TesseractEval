@@ -1,0 +1,12 @@
+c:\projects\TessarectEvaluation\WcfTess\bin\x64\liblept168.dll
+c:\projects\TessarectEvaluation\WcfTess\bin\x64\libtesseract302.dll
+c:\projects\TessarectEvaluation\WcfTess\bin\x86\liblept168.dll
+c:\projects\TessarectEvaluation\WcfTess\bin\x86\libtesseract302.dll
+c:\projects\TessarectEvaluation\WcfTess\bin\WcfTess.dll.config
+c:\projects\TessarectEvaluation\WcfTess\bin\WcfTess.dll
+c:\projects\TessarectEvaluation\WcfTess\bin\WcfTess.pdb
+c:\projects\TessarectEvaluation\WcfTess\bin\Tesseract.dll
+c:\projects\TessarectEvaluation\WcfTess\bin\Tesseract.xml
+c:\projects\TessarectEvaluation\WcfTess\obj\Debug\WcfTess.dll
+c:\projects\TessarectEvaluation\WcfTess\obj\Debug\WcfTess.pdb
+c:\projects\TessarectEvaluation\WcfTess\obj\Debug\WcfTess.csprojResolveAssemblyReference.cache
